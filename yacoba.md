@@ -1,7 +1,7 @@
-# tugas
-## Praktikum Metode Komputasi yang Pertama
+# Praktikum Metode Komputasi yang Pertama
+## repository baru
    
-2.Apa yang membingungkan?
+Apa yang membingungkan?
 
    -kurang memahami perbedaan antara pull/fetch/merge
    
