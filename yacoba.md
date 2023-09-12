@@ -1,10 +1,5 @@
 # tugas
 ## Praktikum Metode Komputasi yang Pertama
-1.Apa saja yang dipelajari?
-
-   -saya belajar bagaimana cara membuat akun github dan mengintegrasikannya dengan git dan vscode.
-   
-   -kemudian saya belajar bagaiamana melakukan clone, serta menggunakan fungsi seperti git commit dan git add
    
 2.Apa yang membingungkan?
 
